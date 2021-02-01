@@ -1,2 +1,2 @@
 # Innov-House-Assets
-Assets for The Innov House
+Assets for the members of The Innov House
